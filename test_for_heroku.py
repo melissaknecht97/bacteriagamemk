@@ -1,10 +1,10 @@
 from test import create_players
 
 number_players = {
-	"Villager": 2,
-	"Mafia": 4,
-	"Sheriff": 3,
-	"Angel": 0,
+	"Human": 2,
+	"Bacteria": 4,
+	"Immune System": 3,
+	"Antibody": 0,
 	"Doesn't Matter": 7}
 
 players = {}
